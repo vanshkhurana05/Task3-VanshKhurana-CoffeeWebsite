@@ -1,6 +1,5 @@
 # coffeewebsite
 
-https://yogita10.github.io/coffeewebsite/website/index.html
 
 This is a coffee shop website which includes the Home, About us, Menu, Order and contact us page.
 This is simply made by using HTML and CSS.
